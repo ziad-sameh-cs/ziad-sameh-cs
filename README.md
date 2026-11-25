@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ziad Sameh 👋
 
-<!--
-**ziad-sameh-cs/ziad-sameh-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Sinai University, based in Cairo, Egypt.
+I'm learning Python, Cloud Computing, and Cybersecurity.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python programming
+- Cloud Computing
+- Cybersecurity basics
+
+## 🛠️ Skills
+
+- Python
+- HTML
+- Cloud Computing
+- Cybersecurity basics
+
+## 📜 Certificates
+
+- Huawei HCIA-Cloud Computing V5.5
+- Python Programming Basics
+- Network Security
+- Google Cloud Skills Boost badges
+
+## 📂 Learning projects
+
+Check out my [python-learning-projects](https://github.com/ziad-sameh-cs/python-learning-projects) repository — small practice projects from my Python Programming Basics course, including a Pandas data-analysis script, a Matplotlib chart script, and data-structures practice. These are learning projects, not client work.
